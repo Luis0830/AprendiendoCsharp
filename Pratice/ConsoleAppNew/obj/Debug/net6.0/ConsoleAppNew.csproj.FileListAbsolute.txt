@@ -1,0 +1,15 @@
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\bin\Debug\net6.0\ConsoleAppNew.exe
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\bin\Debug\net6.0\ConsoleAppNew.deps.json
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\bin\Debug\net6.0\ConsoleAppNew.runtimeconfig.json
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\bin\Debug\net6.0\ConsoleAppNew.dll
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\bin\Debug\net6.0\ConsoleAppNew.pdb
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.csproj.AssemblyReference.cache
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.AssemblyInfoInputs.cache
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.AssemblyInfo.cs
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.csproj.CoreCompileInputs.cache
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.dll
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\refint\ConsoleAppNew.dll
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.pdb
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ConsoleAppNew.genruntimeconfig.cache
+C:\Users\lcgarcia\Desktop\Pratice\ConsoleAppNew\obj\Debug\net6.0\ref\ConsoleAppNew.dll
